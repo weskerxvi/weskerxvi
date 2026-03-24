@@ -6,14 +6,14 @@
 
 ## 🛠️ Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=python,git,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,git,js,php,sqlite)](https://skillicons.dev)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=weskerxvi&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=weskerxvi&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weskerxvi&layout=compact&theme=tokyonight)
