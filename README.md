@@ -6,7 +6,7 @@
 
 ## 🛠️ Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,git,js,php,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,aws)](https://skillicons.dev)
 
 ---
 
