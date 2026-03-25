@@ -17,3 +17,9 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=weskerxvi&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weskerxvi&layout=compact&theme=tokyonight)
+
+
+## 🧠 Problem Solving
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/weskerhub?theme=dark&font=Karma)
+![Codewars](https://www.codewars.com/users/weskerxvi/badges/large)
