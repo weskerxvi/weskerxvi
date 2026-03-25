@@ -21,5 +21,5 @@
 
 ## 🧠 Problem Solving
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/weskerhub?theme=dark&font=Karma)
+![LeetCode Stats](https://leetcard.jacoblin.cool/rioaMh4RdY?theme=dark&font=Karma)
 ![Codewars](https://www.codewars.com/users/weskerxvi/badges/large)
